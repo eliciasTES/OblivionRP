@@ -8,27 +8,60 @@ This repo organizes all major content for easy reference while playing.
 
 ```bash
 elder-scrolls-campaign/
-├── README.md
-├── Characters/
-│   ├── Elias.md
-│   └── Virel.md
-├── Weapons-Armor-Equipment/
-│   ├── Elias_Loadout.md
-│   └── Virel_Loadout.md
-├── Spells/
-│   ├── Elias_Spells.md
-│   └── Virel_Spells.md
-├── Locations/
-│   └── Falkreath_Forest_Camp.md
-├── Factions/
-│   ├── Tribunal_Remnants.md
-│   └── Namiran_Cultists.md
-├── Quests-Arcs/
-│   ├── MainArc_TheJudgmentBelow.md
-│   └── SideQuest_ForgottenShrine.md
-└── Visuals-References/
-    ├── CharacterArt/
-    └── Maps/
+elder-scrolls-rp/
+│
+├── README.md              # Homepage/overview
+│
+├── characters/             # All player and notable NPC characters
+│   ├── virel.md
+│   ├── elias.md
+│   └── ...
+│
+├── equipment/              # Weapons, armor, artifacts, items
+│   ├── helmet_of_stendarr.md
+│   ├── blade_of_woe.md
+│   └── ...
+│
+├── factions/               # Factions, covens, guilds
+│   ├── dark_brotherhood.md
+│   ├── hagraven_coven.md
+│   └── ...
+│
+├── spells/                 # Spells, shouts, enchantments
+│   ├── whispering_shadow.md
+│   ├── call_of_the_ancients.md
+│   └── ...
+│
+├── quests/                 # Quests and quest arcs
+│   ├── rebuild_helgen.md
+│   ├── helmet_of_stendarr_quest.md
+│   └── ...
+│
+├── locations/              # Holds and their locations
+│   ├── falkreath/
+│   │   ├── _overview.md         # General overview of Falkreath Hold
+│   │   ├── falkreath_city.md    # Capital
+│   │   ├── dark_brotherhood_sanctuary.md
+│   │   ├── helgen.md
+│   │   ├── orphan_rock.md
+│   │   ├── moss_mother_cavern.md
+│   │   ├── fort_neugrad.md
+│   │   └── ... (other sites)
+│   │
+│   ├── whiterun/
+│   │   ├── _overview.md
+│   │   ├── dragonsreach.md
+│   │   ├── jorrvaskr.md
+│   │   └── ...
+│   │
+│   └── ... (other holds)
+│
+└── misc/                   # Extras (maps, timelines, notes)
+    ├── world_timeline.md
+    ├── religious_cults.md
+    └── ...
+
+
 ```
 
 ## 📚 Sections Overview
