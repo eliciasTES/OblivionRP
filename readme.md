@@ -2,7 +2,7 @@
 
 Welcome to the repository for the Elias & Virel campaign, set in the Elder Scrolls universe.
 
-This repo organizes all major content for easy reference while playing. Everything is kept lightweight but expandable.
+This repo organizes all major content for easy reference while playing.
 
 ## 📂 Directory Structure
 
@@ -85,4 +85,3 @@ elder-scrolls-campaign/
 
 ---
 
-Ready to dive deeper? Start by filling in the first **Character Sheets** in `/Characters`!
